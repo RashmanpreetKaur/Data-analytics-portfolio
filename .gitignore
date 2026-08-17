@@ -1,0 +1,17 @@
+# Power BI
+*.pbix.autosave
+
+# Tableau
+*.twb.lock
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Python
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
