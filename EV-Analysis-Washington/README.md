@@ -1,8 +1,8 @@
-# Electrical Vehicle Analysis | Washington 🚗⚡
+# Electric Vehicle Analysis | Washington 🚗⚡
 
 This is my **EV Analysis | Washington** project created using **Tableau**.
 
-The main goal of this project is to explore **Electric vehicle registration data in Washington State** and understand EV adoption patterns based on vehicle type, manufacturer, county, and model year.
+The main goal of this project is to explore **electric vehicle registration data in Washington State** and understand EV adoption patterns based on vehicle type, manufacturer, county, and model year.
 
 ## 📌 Project Overview
 
@@ -31,6 +31,12 @@ The Tableau dashboard includes:
 * BEV vs PHEV Analysis
 * County-level EV Mapping
 * Interactive filtering by vehicle make
+
+### 🔗 Interactive Dashboard
+
+**View the interactive dashboard on Tableau Public:**
+
+https://public.tableau.com/app/profile/rashmanpreet.kaur/viz/ElectricalVehicleDashboard_17810662988130/Dashboard1
 
 ## 🔎 Key Insights
 
@@ -85,5 +91,3 @@ I am continuing to work on projects and gradually building projects where I can 
 ---
 
 **Thanks for checking out my project!** 😊
-
-
